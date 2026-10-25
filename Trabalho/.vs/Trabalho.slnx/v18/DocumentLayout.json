@@ -3,12 +3,57 @@
   "WorkspaceRootPath": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\trabalho\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\trabalho\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\irepositoriodemensagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\irepositoriodemensagens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\registradordelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\registradordelog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\servicodehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\servicodehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\repositoriofalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\repositoriofalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\repositorioemmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\repositorioemmemoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\protocoloinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\protocoloinvalidoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\conversa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\conversa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\servidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\servidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +63,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Bookmark",
@@ -32,22 +81,151 @@
               "RelativeDocumentMoniker": "Trabalho\\Mensagem.cs",
               "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Mensagem.cs",
               "RelativeToolTip": "Trabalho\\Mensagem.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T15:06:58.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
+=======
+              "DocumentIndex": 2,
+              "Title": "IRepositorioDeMensagens.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\IRepositorioDeMensagens.cs",
+              "RelativeDocumentMoniker": "Trabalho\\IRepositorioDeMensagens.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\IRepositorioDeMensagens.cs",
+              "RelativeToolTip": "Trabalho\\IRepositorioDeMensagens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:22:39.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Usuario.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Usuario.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Usuario.cs",
+              "RelativeToolTip": "Trabalho\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:20:10.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistradorDeLog.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RegistradorDeLog.cs",
+              "RelativeDocumentMoniker": "Trabalho\\RegistradorDeLog.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RegistradorDeLog.cs",
+              "RelativeToolTip": "Trabalho\\RegistradorDeLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:24:46.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositorioFalso.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RepositorioFalso.cs",
+              "RelativeDocumentMoniker": "Trabalho\\RepositorioFalso.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RepositorioFalso.cs",
+              "RelativeToolTip": "Trabalho\\RepositorioFalso.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:19:02.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositorioEmMemoria.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RepositorioEmMemoria.cs",
+              "RelativeDocumentMoniker": "Trabalho\\RepositorioEmMemoria.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RepositorioEmMemoria.cs",
+              "RelativeToolTip": "Trabalho\\RepositorioEmMemoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:22:45.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicoDeHistorico.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ServicoDeHistorico.cs",
+              "RelativeDocumentMoniker": "Trabalho\\ServicoDeHistorico.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ServicoDeHistorico.cs",
+              "RelativeToolTip": "Trabalho\\ServicoDeHistorico.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:19:09.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProtocoloInvalidoException.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ProtocoloInvalidoException.cs",
+              "RelativeDocumentMoniker": "Trabalho\\ProtocoloInvalidoException.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ProtocoloInvalidoException.cs",
+              "RelativeToolTip": "Trabalho\\ProtocoloInvalidoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:21:02.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+>>>>>>> Stashed changes
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Program.cs",
               "RelativeDocumentMoniker": "Trabalho\\Program.cs",
               "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Program.cs",
               "RelativeToolTip": "Trabalho\\Program.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAARAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAARAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T15:00:48.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Conversa.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Conversa.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Conversa.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Conversa.cs",
+              "RelativeToolTip": "Trabalho\\Conversa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:20:25.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Servidor.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Servidor.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Servidor.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Servidor.cs",
+              "RelativeToolTip": "Trabalho\\Servidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:20:34.659Z",
               "EditorCaption": ""
             }
           ]

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\servicodehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\servicodehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\repositoriofalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\repositoriofalso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\trabalho\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\mensagem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\gutzf\\onedrive\\documentos\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicoDeHistorico.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ServicoDeHistorico.cs",
+              "RelativeDocumentMoniker": "Trabalho\\ServicoDeHistorico.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ServicoDeHistorico.cs",
+              "RelativeToolTip": "Trabalho\\ServicoDeHistorico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:19:09.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RepositorioFalso.cs",
+              "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RepositorioFalso.cs",
+              "RelativeDocumentMoniker": "Trabalho\\RepositorioFalso.cs",
+              "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\RepositorioFalso.cs",
+              "RelativeToolTip": "Trabalho\\RepositorioFalso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T20:19:02.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Mensagem.cs",
               "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Mensagem.cs",
               "RelativeDocumentMoniker": "Trabalho\\Mensagem.cs",
               "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Mensagem.cs",
               "RelativeToolTip": "Trabalho\\Mensagem.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwAgAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T15:06:58.556Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Program.cs",
               "RelativeDocumentMoniker": "Trabalho\\Program.cs",
               "ToolTip": "C:\\Users\\gutzf\\OneDrive\\Documentos\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Program.cs",
               "RelativeToolTip": "Trabalho\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T15:00:48.139Z",
               "EditorCaption": ""

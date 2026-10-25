@@ -43,9 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< Updated upstream
     <Compile Include="Mensagem.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+=======
+    <Compile Include="Conversa.cs" />
+    <Compile Include="IRepositorioDeMensagens.cs" />
+    <Compile Include="Mensagem.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProtocoloInvalidoException.cs" />
+    <Compile Include="RegistradorDeLog.cs" />
+    <Compile Include="RepositorioEmMemoria.cs" />
+    <Compile Include="RepositorioFalso.cs" />
+    <Compile Include="ServicoDeHistorico.cs" />
+    <Compile Include="Servidor.cs" />
+    <Compile Include="Usuario.cs" />
+>>>>>>> Stashed changes
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

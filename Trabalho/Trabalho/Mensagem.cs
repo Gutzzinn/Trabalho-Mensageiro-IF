@@ -32,9 +32,6 @@ namespace Trabalho
             Console.WriteLine($"[SISTEMA] {Corpo}");
         }
     }
-    public class ProtocoloInvalidoException : Exception
-    {
-        public ProtocoloInvalidoException(string msg) : base(msg) {}
-    }
+    // public class MensagemArquivo : Mensagem { }
 
 }
