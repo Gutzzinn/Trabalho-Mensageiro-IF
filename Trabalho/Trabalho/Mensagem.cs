@@ -6,7 +6,35 @@ using System.Threading.Tasks;
 
 namespace Trabalho
 {
-    internal class Mensagem
+    public class Mensagem
     {
+        internal string Remetente;
+        internal DateTime Data;
+        internal string Corpo;
+
+        public virtual void Exibir()
+        {
+            Console.WriteLine($"{Remetente}: {Corpo}");
+        }
     }
+    public class MensagemTexto : Mensagem
+    {
+        public override void Exibir()
+        {
+            Console.WriteLine($"{Remetente}: {Corpo}");
+        }
+    }
+    public class MensagemSistema : Mensagem
+    {
+        internal int Prioridade;
+        public override void Exibir()
+        {
+            Console.WriteLine($"[SISTEMA] {Corpo}");
+        }
+    }
+    public class ProtocoloInvalidoException : Exception
+    {
+        public ProtocoloInvalidoException(string msg) : base(msg) {}
+    }
+
 }
