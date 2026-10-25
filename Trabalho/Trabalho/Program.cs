@@ -42,6 +42,17 @@ namespace Trabalho
                     Console.WriteLine(min.Prioridade);
                 }
             }
+
+            RepositorioEmMemoria memoria = new RepositorioEmMemoria();
+            memoria.Guardar(msg);
+            ServicoDeHistorico servico1 = new ServicoDeHistorico(memoria);
+
+            Console.WriteLine("Memória: " + servico1.Resumo());
+
+            RepositorioFalso falso = new RepositorioFalso();
+            ServicoDeHistorico servico2 = new ServicoDeHistorico(falso);
+
+            Console.WriteLine("Falso: " + servico2.Resumo());
         }
     }
 }
