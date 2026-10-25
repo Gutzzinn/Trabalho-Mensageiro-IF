@@ -43,12 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    <Compile Include="Mensagem.cs" />
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-=======
     <Compile Include="Conversa.cs" />
     <Compile Include="IRepositorioDeMensagens.cs" />
     <Compile Include="Mensagem.cs" />
@@ -61,16 +55,6 @@
     <Compile Include="ServicoDeHistorico.cs" />
     <Compile Include="Servidor.cs" />
     <Compile Include="Usuario.cs" />
->>>>>>> Stashed changes
-=======
-    <Compile Include="IRepositorioDeMensagens.cs" />
-    <Compile Include="Mensagem.cs" />
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RepositorioEmMemoria.cs" />
-    <Compile Include="RepositorioFalso.cs" />
-    <Compile Include="ServicoDeHistorico.cs" />
->>>>>>> 3b03c2c728ca573a12ceb249482fa274bae4b6b0
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
