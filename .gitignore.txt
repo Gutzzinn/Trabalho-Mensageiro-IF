@@ -1,0 +1,11 @@
+# Visual Studio
+.vs/
+**/.vs/
+
+# Arquivos compilados
+bin/
+obj/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
