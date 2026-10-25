@@ -1,13 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace Trabalho
 {
-    internal class Usuario
+    public class Usuario
     {
+        public Usuario(string nome)
+        {
+            Apelido = nome;
+        }
         public string Apelido;
         public override bool Equals(object obj)
         {

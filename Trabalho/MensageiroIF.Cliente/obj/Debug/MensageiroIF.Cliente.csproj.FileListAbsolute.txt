@@ -1,0 +1,15 @@
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\bin\Debug\MensageiroIF.Cliente.exe.config
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\bin\Debug\MensageiroIF.Cliente.exe
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\bin\Debug\MensageiroIF.Cliente.pdb
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\bin\Debug\Trabalho.exe
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\bin\Debug\Trabalho.pdb
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\bin\Debug\Trabalho.exe.config
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.csproj.AssemblyReference.cache
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.Form1.resources
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.Properties.Resources.resources
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.csproj.GenerateResource.cache
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.csproj.CoreCompileInputs.cache
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\Mensagei.926BDDB2.Up2Date
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.exe
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.pdb
+C:\Users\gutzf\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\MensageiroIF.Cliente\obj\Debug\MensageiroIF.Cliente.FormEnvio.resources

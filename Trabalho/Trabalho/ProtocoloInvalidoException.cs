@@ -10,4 +10,8 @@ namespace Trabalho
     {
         public ProtocoloInvalidoException(string msg) : base(msg) { }
     }
+    public class MensagemInvalidaException : Exception
+    {
+        public MensagemInvalidaException(string msg) : base(msg) { }
+    }
 }

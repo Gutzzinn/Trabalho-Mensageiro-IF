@@ -11,6 +11,7 @@ namespace Trabalho
         internal string Remetente;
         internal DateTime Data;
         internal string Corpo;
+        internal Usuario user;
 
         // "Mensagem.Exibir()" não pode declarar um corpo porque não está marcado como abstract
         // ; esperado
@@ -20,6 +21,12 @@ namespace Trabalho
     }
     public class MensagemTexto : Mensagem
     {
+        public MensagemTexto() { }
+        public MensagemTexto(string c, Usuario r)
+        {
+            user = r;
+            Corpo = c;
+        }
         public override void Exibir()
         {
             Console.WriteLine($"{Remetente}: {Corpo}");
