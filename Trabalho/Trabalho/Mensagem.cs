@@ -6,16 +6,17 @@ using System.Threading.Tasks;
 
 namespace Trabalho
 {
-    public class Mensagem
+    public abstract class Mensagem
     {
         internal string Remetente;
         internal DateTime Data;
         internal string Corpo;
 
-        public virtual void Exibir()
-        {
-            Console.WriteLine($"{Remetente}: {Corpo}");
-        }
+        // "Mensagem.Exibir()" não pode declarar um corpo porque não está marcado como abstract
+        // ; esperado
+        public abstract void Exibir();
+       
+       
     }
     public class MensagemTexto : Mensagem
     {
