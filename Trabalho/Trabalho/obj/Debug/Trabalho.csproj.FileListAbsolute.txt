@@ -12,3 +12,11 @@ C:\Users\isabe\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabal
 C:\Users\isabe\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
 C:\Users\isabe\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.exe
 C:\Users\isabe\OneDrive\Documentos\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.pdb
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\bin\Debug\Trabalho.exe.config
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\bin\Debug\Trabalho.exe
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\bin\Debug\Trabalho.pdb
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.AssemblyReference.cache
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.exe.config
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.exe
+C:\Users\aluno\Documents\GitHub\Trabalho-Mensageiro-IF\Trabalho\Trabalho\obj\Debug\Trabalho.pdb

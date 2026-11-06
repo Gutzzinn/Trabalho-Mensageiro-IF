@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\formprincipal.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\servicodehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\servicodehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\formenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\formenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\formenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\formenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\formcadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\trabalho\\conversa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C628969-6245-48F8-9BC5-3B8A23778E30}|Trabalho\\Trabalho.csproj|solutionrelative:trabalho\\conversa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|c:\\users\\aluno\\documents\\github\\trabalho-mensageiro-if\\trabalho\\mensageiroif.cliente\\formenvio.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E056FE88-30BD-4680-AB3E-CF6604679F1F}|MensageiroIF.Cliente\\MensageiroIF.Cliente.csproj|solutionrelative:mensageiroif.cliente\\formenvio.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormPrincipal.cs [Design]",
+              "RelativeToolTip": "MensageiroIF.Cliente\\FormPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:23:22.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conversa.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Conversa.cs",
+              "RelativeDocumentMoniker": "Trabalho\\Conversa.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\Conversa.cs",
+              "RelativeToolTip": "Trabalho\\Conversa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:52:53.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormPrincipal.cs",
+              "RelativeToolTip": "MensageiroIF.Cliente\\FormPrincipal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:39:52.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicoDeHistorico.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ServicoDeHistorico.cs",
+              "RelativeDocumentMoniker": "Trabalho\\ServicoDeHistorico.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\Trabalho\\ServicoDeHistorico.cs",
+              "RelativeToolTip": "Trabalho\\ServicoDeHistorico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:16:08.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormEnvio.cs",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\FormEnvio.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormEnvio.cs",
+              "RelativeToolTip": "MensageiroIF.Cliente\\FormEnvio.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:46:20.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormEnvio.resx",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormEnvio.resx",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\FormEnvio.resx",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormEnvio.resx",
+              "RelativeToolTip": "MensageiroIF.Cliente\\FormEnvio.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-06T12:46:15.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEnvio.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormEnvio.cs",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\FormEnvio.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormEnvio.cs [Design]",
+              "RelativeToolTip": "MensageiroIF.Cliente\\FormEnvio.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:29:33.67Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCadastro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormCadastro.cs",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\FormCadastro.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormCadastro.cs [Design]",
+              "RelativeToolTip": "MensageiroIF.Cliente\\FormCadastro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:29:33.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\Program.cs",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\Program.cs",
+              "RelativeToolTip": "MensageiroIF.Cliente\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T12:27:15.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPrincipal.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormPrincipal.Designer.cs",
+              "RelativeDocumentMoniker": "MensageiroIF.Cliente\\FormPrincipal.Designer.cs",
+              "ToolTip": "C:\\Users\\aluno\\Documents\\GitHub\\Trabalho-Mensageiro-IF\\Trabalho\\MensageiroIF.Cliente\\FormPrincipal.Designer.cs",
+              "RelativeToolTip": "MensageiroIF.Cliente\\FormPrincipal.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-06T13:36:39.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

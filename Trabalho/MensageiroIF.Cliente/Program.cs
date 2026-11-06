@@ -10,7 +10,7 @@ namespace MensageiroIF.Cliente
     internal static class Program
     {
         /// <summary>
-        /// Ponto de entrada principal para o aplicativo.
+        /// Ponto de entrada principal para o aplicativo.0
         /// </summary>
         [STAThread]
         static void Main()
@@ -22,6 +22,7 @@ namespace MensageiroIF.Cliente
             var repositorio = new RepositorioEmMemoria();
             var servico = new ServicoDeHistorico(repositorio);
             Application.Run(new FormEnvio(servico, usuario));
+            Application.Run(new FormPrincipal());
         }
     }
 }
